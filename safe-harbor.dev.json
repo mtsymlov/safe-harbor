@@ -2,6 +2,12 @@
   "version_control": {
     "is_update_wall_enable": true,
     "versions": {
+      "1.13.4": {
+        "expired": false,
+        "features": {
+          "voiceRecognition": true
+        }
+      },
       "1.13.5": {
         "expired": false,
         "features": {
