@@ -11,7 +11,7 @@
       "1.13.4": {
         "expired": false,
         "features": {
-          "voiceRecognition": false,
+          "voiceRecognition": true,
           "calculator": true
         }
       }
