@@ -12,7 +12,7 @@
         "expired": false,
         "features": {
           "voiceRecognition": false,
-          "calculator": false
+          "calculator": true
         }
       }
     }
