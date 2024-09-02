@@ -9,7 +9,7 @@
         }
       },
       "1.13.4": {
-        "expired": true,
+        "expired": false,
         "features": {
           "voiceRecognition": true,
           "calculator": true
