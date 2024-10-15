@@ -1,6 +1,14 @@
 {
   "version_control": {
     "is_update_wall_enable": true,
-    "versions": {}
+    "versions": {
+      "1.14.0": {
+        "expired": false,
+        "features": {
+          "calculator": true,
+          "voiceRecognition": true
+        }
+      }
+    }
   }
 }
