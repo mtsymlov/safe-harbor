@@ -1,6 +1,6 @@
 {
   "version_control": {
-    "is_update_wall_enable": true,
+    "is_update_wall_enable": false,
     "versions": {
       "1.14.0": {
         "expired": true,
