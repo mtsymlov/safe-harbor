@@ -5,8 +5,8 @@
       "1.14.0": {
         "expired": false,
         "features": {
-          "calculator": true,
-          "voiceRecognition": true
+          "calculator": false,
+          "voiceRecognition": false
         }
       }
     }
