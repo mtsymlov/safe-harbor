@@ -3,7 +3,7 @@
     "is_update_wall_enable": true,
     "versions": {
       "1.14.0": {
-        "expired": false,
+        "expired": true,
         "features": {
           "calculator": false,
           "voiceRecognition": false
