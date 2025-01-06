@@ -6,6 +6,7 @@
         "expired": false,
         "features": {
           "calculator": true,
+          "dateHelp": true,
           "voiceRecognition": true
         }
       },
