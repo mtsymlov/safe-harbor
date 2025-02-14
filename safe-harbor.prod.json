@@ -2,7 +2,7 @@
   "version_control": {
     "is_update_wall_enable": true,
     "versions": {
-      "1.14.0": {
+      "1.14.1": {
         "expired": false,
         "features": {
           "calculator": true,
