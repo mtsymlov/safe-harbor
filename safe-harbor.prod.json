@@ -6,7 +6,7 @@
         "expired": false,
         "features": {
           "calculator": true,
-          "voiceRecognition": false
+          "voiceRecognition": true
         }
       }
     }
